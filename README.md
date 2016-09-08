@@ -16,6 +16,10 @@ The landing page of the blog is bilingual page.
 
 If you like this Jekyll theme,please give me encouragement and star this project,I will make it better.
 
+### Contact
+
+It is my pleasure to contact me, you can give me your website or some advice about my website. Let's build a wonderful Jekyll theme together!
+
 ## Ad
 
 [Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
