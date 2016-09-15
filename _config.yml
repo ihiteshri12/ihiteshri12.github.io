@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
+title: "click here"
 description: "Jack's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 baseurl: "/"
@@ -13,21 +13,21 @@ img_path: 'http://ihiteshri12.github.io/static/img/blog'
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  name: 'Hiteshri'
+  first_name: 'Hiteshri'
+  last_name: 'Ramteke'
+  email: 'hiteshri.ramteke@opexsoftware.com'
+  facebook_username: 'hiti.ramteke@gmail.com'
+  github_username: 'ihiteshri12'
+  head_img: 'static/img/landing/hiti.jpg'
 
 # social link
 jingyu:
-  first_name: 'Yu'
-  last_name: 'Jing'
-  description: 'Painter.'
+  first_name: 'Hiteshri'
+  last_name: 'Ramteke'
+  description: 'Jr.Cloud atoumation engineer'
   link: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+  email: 'hiteshri.ramteke@opexsoftware.com'
 
 # landing page
 landing:
