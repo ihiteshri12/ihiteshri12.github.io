@@ -12,7 +12,7 @@ url: "http://ihiteshri12.github.io"
 img_path: 'http://ihiteshri12.github.io/static/img/blog'
 
 # author
-author:
+author: 'Hiteshri'
   name: 'Hiteshri'
   first_name: 'Hiteshri'
   last_name: 'Ramteke'
@@ -22,7 +22,7 @@ author:
   head_img: 'static/img/landing/hiti.jpg'
 
 # social link
-jingyu:
+hiteshri:
   first_name: 'Hiteshri'
   last_name: 'Ramteke'
   description: 'Jr.Cloud atoumation engineer'
@@ -78,7 +78,7 @@ changyan:
   # appid: cysfY7ULn
   # conf: prod_861928934cecb7a18e15bedaed9dae29
 disqus:
-  name: jalpc
+  name: 'click here'
   public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # share
